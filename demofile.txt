@@ -1,0 +1,17 @@
+int a[999];
+a[0] = 2;
+float b_;
+b1 = a[1] + 3;
+if (b1 >= a[3]) {
+    return 0;
+}
+c = (a[8] + b_) % 1.14;
+i = i * 5e4;
+const x = 1919810;
+while (x > 0) {
+    x = x - 1;
+    if (x == 1) {break;}
+    else {continue;}
+}
+//test
+/* test again */
